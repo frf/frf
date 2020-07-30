@@ -13,13 +13,16 @@ I am enthusiastic and positive in everthing I do and I am a very hard worker and
 
 Specialties: I am especialist software develop, with expertise in:<br/> 
 
-<br/>.✏️ VUEJS, HTML, JS
-<br/>.💙 In love with Javascript.
-<br/>.📚 Postgraduate in Systems Analysis, Design and Management.
-<br/>.🌍 Languages: Portuguese, English.
-<br/>.💬 Ask me about: php, linux.
-<br/>.🔧 Tools: GraphQL, REST, Docker
-<br/>.💻 PHP native or (Laravel, Zend, Synfony)<br/> 
+I love back-end (PHP, API, Api Gateway AWS, Lambda, Node)
+
+<br/>💻 PHP native or (Laravel, Zend, Synfony)<br/> 
+<br/>✏️ VUEJS, HTML, JS
+<br/>💙 In love with Javascript.
+<br/>📚 Postgraduate in Systems Analysis, Design and Management.
+<br/>🌍 Languages: Portuguese, English.
+<br/>💬 Ask me about: php, linux.
+<br/>🔧 Tools: GraphQL, REST, Docker
+
 AWS (Nginx,Mysql,DynamoDB,RDS)<br/> 
 Mobile: Android,IONIC, Linux<br/> 
 Front: VUEJS, HTML, JS<br/> 
