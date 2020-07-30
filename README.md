@@ -15,17 +15,18 @@ Specialties: I am especialist software develop, with expertise in:<br/>
 
 I love back-end (PHP, API, Api Gateway AWS, Lambda, Node)
 
-<br/>💻 PHP native or (Laravel, Zend, Synfony)<br/> 
+<br/>💻 PHP native or (Laravel, Zend, Synfony)
 <br/>✏️ VUEJS, HTML, JS
 <br/>💙 In love with Javascript.
 <br/>📚 Postgraduate in Systems Analysis, Design and Management.
 <br/>🌍 Languages: Portuguese, English.
 <br/>💬 Ask me about: php, linux.
 <br/>🔧 Tools: GraphQL, REST, Docker
+<br/>
 
-AWS (Nginx,Mysql,DynamoDB,RDS)<br/> 
-Mobile: Android,IONIC, Linux<br/> 
-Front: VUEJS, HTML, JS<br/> 
+AWS (Nginx, Mysql, Postgres, DynamoDB, Mongodb, AWS RDS)<br/> 
+Mobile: Android, ReactNative, IONIC<br/> 
+Front-end: VUEJS, HTML, JS, React<br/> 
 Background: API, REST, Shell, Docker <br/> 
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
