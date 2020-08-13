@@ -16,7 +16,7 @@ Specialties: I am especialist software develop, with expertise in:<br/>
 I love back-end (PHP, API, Api Gateway AWS, Lambda, Node)
 
 <br/>💻 PHP native or (Laravel, Zend, Synfony)
-<br/>✏️ VUEJS, HTML, JS
+<br/>✏️ VUEJS, REACT, HTML, JS
 <br/>💙 In love with Javascript.
 <br/>📚 Postgraduate in Systems Analysis, Design and Management.
 <br/>🌍 Languages: Portuguese, English.
