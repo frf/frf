@@ -21,7 +21,7 @@ I love back-end (PHP, API, Api Gateway AWS, Lambda, Node)
 <br/>📚 Postgraduate in Systems Analysis, Design and Management.
 <br/>🌍 Languages: Portuguese, English.
 <br/>💬 Ask me about: php, linux.
-<br/>🔧 Tools: GraphQL, REST, Docker
+<br/>🔧 Tools: GraphQL, REST, Docker, Caprover, Kubernate, Heroku
 <br/>
 
 AWS (Nginx, Mysql, Postgres, DynamoDB, Mongodb, AWS RDS)<br/> 
@@ -33,10 +33,10 @@ Thank you for reading this far and don't forget to add me on LinkedIn.
 
 ### Last project
 
-Platform with react, react native and node register teacher and search.
-http://proffy.app2u.co/
-
-Platform with react and node register developer and search. (Developing)
-https://dev4u.app/
+Platform with react, react native and node register teacher and search.<br/>
+http://proffy.app2u.co/<br/>
+<br/><br/>
+Platform with react and node register developer and search. (Developing)<br/>
+https://dev4u.app/<br/>
 
 <hr/>
