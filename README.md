@@ -35,7 +35,7 @@ Thank you for reading this far and don't forget to add me on LinkedIn.
 
 Platform with react, react native and node register teacher and search.<br/>
 http://proffy.app2u.co/<br/>
-<br/><br/>
+<br/>
 Platform with react and node register developer and search. (Developing)<br/>
 https://dev4u.app/<br/>
 
