@@ -30,4 +30,13 @@ Front-end: VUEJS, HTML, JS, React<br/>
 Background: API, REST, Shell, Docker <br/> 
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
+
+### Last project
+
+Platform with react, react native and node register teacher and search.
+http://proffy.app2u.co/
+
+Platform with react and node register developer and search. (Developing)
+https://dev4u.app/
+
 <hr/>
