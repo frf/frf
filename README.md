@@ -35,8 +35,7 @@ Thank you for reading this far and don't forget to add me on LinkedIn.
 
 ### Platform with react, react native and node <br/>
 Register and search for teachers<br/>
-http://proffy.app2u.co/<br/>
-https://dev4u.app/<br/>
+Front-end: http://proffy.app2u.co/<br/>
 
 GIT 💻: https://github.com/frf/nextlevel-react-typescript-web<br/>
 GIT: https://github.com/frf/nextlevel-node-ts-server<br/>
@@ -53,15 +52,17 @@ GIT 💻: https://github.com/frf/test-react-map-leaflet <br/>
 
 <br/>
 ### Website React TypeScript: <br/>
-https://dev4u.app2u.co/<br/>
+Platform to find developers around the world <br/>
+Front-end: V1 - https://dev4u.app/<br/>
+Front-end: V2 - https://dev4u.app2u.co/<br/>
 GIT 💻: https://github.com/frf/react-dev4u-website<br/>
 
 <br />
 ### Project using VUEJS and NestJS (Node): <br/>
-GIT 💻: https://nutdiet-vue-git-master.frf1.vercel.app<br/>
+Front-end: GIT 💻: https://nutdiet-vue-git-master.frf1.vercel.app<br/>
 <br/>
 
 ### Website React: <br/>
-https://website.app2u.co/<br/>
+Front-end: https://website.app2u.co/<br/>
 GIT 💻: https://github.com/frf/react-simple-website<br/>
 <hr/>
