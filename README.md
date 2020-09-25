@@ -31,7 +31,7 @@ Background: API, REST, Shell, Docker <br/>
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
 
-### Latest Projects
+## Latest Projects
 
 ### Platform with react, react native and node <br/>
 Register and search for teachers<br/>
@@ -45,22 +45,18 @@ GIT :iphone:: https://github.com/frf/nextlevel-react-native<br/>
 ### Platform with react, react native and node<br/>
 Server: https://node-maps-swegger.herokuapp.com/api-docs/<br/>
 Front-end: https://react-map-leaflet.herokuapp.com/<br/>
-
 GIT :iphone:: https://github.com/frf/test-react-native <br/>
 GIT :arrows_clockwise:: https://github.com/frf/test-node-swegger-maps <br/>
 GIT 💻: https://github.com/frf/test-react-map-leaflet <br/>
 
-<br/>
 ### Website React TypeScript: <br/>
 Platform to find developers around the world <br/>
 Front-end: V1 - https://dev4u.app/<br/>
 Front-end: V2 - https://dev4u.app2u.co/<br/>
 GIT 💻: https://github.com/frf/react-dev4u-website<br/>
 
-<br />
 ### Project using VUEJS and NestJS (Node): <br/>
 Front-end: GIT 💻: https://nutdiet-vue-git-master.frf1.vercel.app<br/>
-<br/>
 
 ### Website React: <br/>
 Front-end: https://website.app2u.co/<br/>
