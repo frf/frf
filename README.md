@@ -44,8 +44,8 @@ Platform with react, react native and node<br/>
 Server: https://node-maps-swegger.herokuapp.com/api-docs/<br/>
 Front-end: https://react-map-leaflet.herokuapp.com/<br/>
 
-GIT : https://github.com/frf/test-react-native <br/>
-GIT: https://github.com/frf/test-node-swegger-maps <br/>
+GIT :iphone:: https://github.com/frf/test-react-native <br/>
+GIT :arrows_clockwise:: https://github.com/frf/test-node-swegger-maps <br/>
 GIT 💻: https://github.com/frf/test-react-map-leaflet <br/>
 
 <br/>
