@@ -38,5 +38,27 @@ http://proffy.app2u.co/<br/>
 <br/>
 Platform with react and node register developer and search. (Developing)<br/>
 https://dev4u.app/<br/>
+<br/>
 
+Platform with react, react native and node<br/>
+Server: https://node-maps-swegger.herokuapp.com/api-docs/<br/>
+Front-end: https://react-map-leaflet.herokuapp.com/<br/>
+
+GIT : https://github.com/frf/test-react-native <br/>
+GIT: https://github.com/frf/test-node-swegger-maps <br/>
+GIT 💻: https://github.com/frf/test-react-map-leaflet <br/>
+
+<br/>
+Website React TypeScript: <br/>
+https://dev4u.app2u.co/<br/>
+GIT 💻: https://github.com/frf/react-dev4u-website<br/>
+
+<br />
+Project using VUEJS and NestJS (Node): <br/>
+GIT 💻: https://nutdiet-vue-git-master.frf1.vercel.app<br/>
+<br/>
+
+Website React: <br/>
+https://website.app2u.co/<br/>
+GIT 💻: https://github.com/frf/react-simple-website<br/>
 <hr/>
