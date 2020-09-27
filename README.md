@@ -67,4 +67,10 @@ GIT 💻: https://github.com/frf/react-simple-website<br/>
 Online course management system<br/>
 Website: https://turma.vip<br/>
 
+
+### Laravel, Mysql, Aws Recognition, S3, EC2, API<br/>
+Facial recognition and document validation service<br/>
+GIT: https://github.com/frf/mercado-token<br/>
+
+
 <hr/>
