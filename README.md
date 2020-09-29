@@ -33,8 +33,14 @@ Thank you for reading this far and don't forget to add me on LinkedIn.
 
 ## Latest Projects
 
+### Laravel, Mysql, Aws, S3, EC2<br/>
+#### Property management platform, multi real estate.
+Demo 💻:  https://imovelweb.app2u.co<br/>
+Demo Admin 💻:  https://imovelweb.app2u.co/admin<br/>
+
+
 ### Platform with react, react native and node <br/>
-Register and search for teachers<br/>
+#### Register and search for teachers<br/>
 Front-end: http://proffy.app2u.co/<br/>
 
 GIT 💻: https://github.com/frf/nextlevel-react-typescript-web<br/>
@@ -43,6 +49,7 @@ GIT :iphone:: https://github.com/frf/nextlevel-react-native<br/>
 <br/>
 
 ### Platform with react, react native and node<br/>
+#### Display of more than 50,000 points on the map
 Server: https://node-maps-swegger.herokuapp.com/api-docs/<br/>
 Front-end: https://react-map-leaflet.herokuapp.com/<br/>
 GIT :iphone:: https://github.com/frf/test-react-native <br/>
@@ -50,7 +57,7 @@ GIT :arrows_clockwise:: https://github.com/frf/test-node-swegger-maps <br/>
 GIT 💻: https://github.com/frf/test-react-map-leaflet <br/>
 
 ### Website React TypeScript: <br/>
-Platform to find developers around the world <br/>
+#### Platform to find developers around the world <br/>
 Front-end: V1 - https://dev4u.app/<br/>
 Front-end: V2 - https://dev4u.app2u.co/<br/>
 GIT 💻: https://github.com/frf/react-dev4u-website<br/>
@@ -62,14 +69,12 @@ Front-end: GIT 💻: https://nutdiet-vue-git-master.frf1.vercel.app<br/>
 Front-end: https://website.app2u.co/<br/>
 GIT 💻: https://github.com/frf/react-simple-website<br/>
 
-
 ### Laravel, Mysql, Supervisor, S3, EC2, Payment Gateway, CSS, HTML<br/>
-Online course management system<br/>
+#### Online course management system<br/>
 Website: https://turma.vip<br/>
 
-
 ### Laravel, Mysql, Aws Recognition, S3, EC2, API<br/>
-Facial recognition and document validation service<br/>
+#### Facial recognition and document validation service<br/>
 GIT: https://github.com/frf/mercado-token<br/>
 
 
