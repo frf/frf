@@ -39,6 +39,15 @@ Demo 💻:  https://imovelweb.app2u.co<br/>
 Demo Admin 💻:  https://imovelweb.app2u.co/admin<br/>
 
 
+
+### React, NodeJS, NestJS, Mysql, multi apps examples <br/>
+#### Platform test multi apps<br/>
+#### List occurrences with axios, useEffect, component Table, Api NestJS, TypeOrm, MySql<br/>
+Front-end: https://apps.app2u.co<br/>
+
+GIT 💻: https://github.com/frf/react-multi-app<br/>
+<br/>
+
 ### Platform with react, react native and node <br/>
 #### Register and search for teachers<br/>
 Front-end: http://proffy.app2u.co/<br/>
