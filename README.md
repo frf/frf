@@ -36,7 +36,7 @@ Thank you for reading this far and don't forget to add me on LinkedIn.
 ### Website React TypeScript: <br/>
 #### Platform to find developers around the world <br/>
 Front-end: https://dev4u.app/<br/>
-Front-end v1: https://dev4u-app-front-react.herokuapp.com/<br/>
+Front-end v1: https://dev4u-react-ts-front.vercel.app/<br/>
 GIT 💻: https://github.com/frf/react-dev4u-website<br/>
 
 ### Laravel, Mysql, Aws, S3, EC2<br/>
