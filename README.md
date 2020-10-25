@@ -43,8 +43,6 @@ GIT 💻: https://github.com/frf/react-dev4u-website<br/>
 #### Property management platform, multi real estate.
 Demo 💻:  https://imovelweb.app2u.co<br/>
 Demo Admin 💻:  https://imovelweb.app2u.co/admin<br/>
-User: admin@app2u.co
-Password: 123456
 
 ### React, NodeJS, NestJS, Mysql, multi apps examples <br/>
 #### Platform test multi apps<br/>
