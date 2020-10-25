@@ -33,12 +33,16 @@ Thank you for reading this far and don't forget to add me on LinkedIn.
 
 ## Latest Projects
 
+### Website React TypeScript: <br/>
+#### Platform to find developers around the world <br/>
+Front-end: https://dev4u.app/<br/>
+Front-end v1: https://dev4u-app-front-react.herokuapp.com/<br/>
+GIT 💻: https://github.com/frf/react-dev4u-website<br/>
+
 ### Laravel, Mysql, Aws, S3, EC2<br/>
 #### Property management platform, multi real estate.
 Demo 💻:  https://imovelweb.app2u.co<br/>
 Demo Admin 💻:  https://imovelweb.app2u.co/admin<br/>
-
-
 
 ### React, NodeJS, NestJS, Mysql, multi apps examples <br/>
 #### Platform test multi apps<br/>
@@ -64,12 +68,6 @@ Front-end: https://react-map-leaflet.herokuapp.com/<br/>
 GIT :iphone:: https://github.com/frf/test-react-native <br/>
 GIT :arrows_clockwise:: https://github.com/frf/test-node-swegger-maps <br/>
 GIT 💻: https://github.com/frf/test-react-map-leaflet <br/>
-
-### Website React TypeScript: <br/>
-#### Platform to find developers around the world <br/>
-Front-end: V1 - https://dev4u.app/<br/>
-Front-end: V2 - https://dev4u.app2u.co/<br/>
-GIT 💻: https://github.com/frf/react-dev4u-website<br/>
 
 ### Project using VUEJS and NestJS (Node): <br/>
 Front-end: GIT 💻: https://nutdiet-vue-git-master.frf1.vercel.app<br/>
