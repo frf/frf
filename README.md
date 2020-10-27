@@ -31,6 +31,15 @@ Background: API, REST, Shell, Docker <br/>
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
 
+
+
+
+## Latest Projects
+
+### App Mobile: <br/>
+#### list occurrences and show details <br/>
+Mobile: https://github.com/frf/occurrence-react-native<br/>
+
 ## Latest Projects
 
 ### Website React TypeScript: <br/>
