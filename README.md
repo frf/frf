@@ -15,6 +15,11 @@ Specialties: I am especialist software develop, with expertise in:<br/>
 
 I love back-end (PHP, API, Api Gateway AWS, Lambda, Node)
 
+Achievements:
+I'm working on a personal project to help people easily store and access their documents. https://github.com/frf/api-docfacil
+Working on a new challenge to build an API with great performance using DDD and a scalable architecture.
+At the last company I worked with, I delivered a large platform together with the development team that today serves and processes 3000 work orders a day.
+
 <br/>💻 PHP native or (Laravel, Zend, Synfony)
 <br/>✏️ VUEJS, REACT, HTML, JS
 <br/>💙 In love with Javascript.
