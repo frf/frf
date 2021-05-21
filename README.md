@@ -7,30 +7,21 @@
 
 <br/> Hi my name is Fabio, <br/> 
 
-I am a friendly, outgoing person who loves life. I have a great sense of humor but also take my work responsabilities very seriously. <br/> 
+## About me
 
-I am enthusiastic and positive in everthing I do and I am a very hard worker and a quick learner. I have a excellent interpesoal skills and I am a good listener. I am comfortable as a team worker but I can also work independently. I belive that I am responsible, trustworth and reliable and I love the idea of challenge. I love meeting new people and I am able to adapt to new situation quickfy.<br/> 
+I am a friendly and outgoing person who loves life. I have a great sense of humor, but I also take my job responsibilities very seriously. <br/>
+
+I am enthusiastic and positive in everything I do and I am a very hard worker and a quick learner. I have excellent interpersonal skills and am a good listener.
+
+I am a dedicated software engineer and passionate about building systems.
+
+I feel comfortable working as a team, but I can also work independently. I believe that I am responsible, trustworthy and I love challenges. I love meeting new people and I am able to adapt to new situations quickly.
 
 Specialties: I am especialist software develop, with expertise in:<br/> 
 
-I love back-end (PHP, API, Api Gateway AWS, Lambda, Node)
+I love back-end (PHP, API, Laravel, Linux, Redis, RabbitMQ, Postgres, Elasticsearch, Algolia, PHP Command Cli Laravel, Laravel ECS, CI/CD, Jekins)
 
-Achievements:
-I'm working on a personal project to help people easily store and access their documents. https://github.com/frf/api-docfacil
-Working on a new challenge to build an API with great performance using DDD and a scalable architecture.
-At the last company I worked with, I delivered a large platform together with the development team that today serves and processes 3000 work orders a day.
-
-Local Help People - http://ajudalocal.me/
-This project consists of helping people, knowing where each homeless person is, who needs food, who needs books, who needs help, hygiene products, or psychological help and so on. API: https://github.com/frf/api.ajudalocal.me Frontend: https://github.com/frf/app.ajudalocal
-
-Docfacil - https://docfacil.me 
-Docfacil.me is a platform for sending documents such as ID, CPF, health insurance card, etc. .. This platform works with a simple upload of an image taken from the application, this image is saved encrypted on our server where only the owner himself has access. This idea came from a difficulty I saw that some elderly people need digitally some of their documents and did not find them, so the mobile app will concentrate all your documents. API: https://github.com/frf/api-docfacil FRONT: https://github.com/frf/docfacil.me-front
-
-Bitbucket and Discord messages
-Bitbucket and Discord messages integration via webhook, https://github.com/frf/webhook-bitbucket-to-discord
-
-Discord Notification
-https://github.com/frf/discord-message
+## Skills
 
 <br/>💻 PHP native or (Laravel, Zend, Synfony)
 <br/>✏️ REACT, HTML, JS
@@ -47,6 +38,22 @@ Front-end: React, HTML, JS<br/>
 Background: API, REST, Shell, Docker <br/> 
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
+
+
+## Achievements
+
+Local Help People - http://ajudalocal.me/
+This project consists of helping people, knowing where each homeless person is, who needs food, who needs books, who needs help, hygiene products, or psychological help and so on. API: https://github.com/frf/api.ajudalocal.me Frontend: https://github.com/frf/app.ajudalocal
+
+Docfacil - https://docfacil.me 
+Docfacil.me is a platform for sending documents such as ID, CPF, health insurance card, etc. .. This platform works with a simple upload of an image taken from the application, this image is saved encrypted on our server where only the owner himself has access. This idea came from a difficulty I saw that some elderly people need digitally some of their documents and did not find them, so the mobile app will concentrate all your documents. API: https://github.com/frf/api-docfacil FRONT: https://github.com/frf/docfacil.me-front
+
+Bitbucket and Discord messages
+Bitbucket and Discord messages integration via webhook, https://github.com/frf/webhook-bitbucket-to-discord
+
+Discord Notification
+https://github.com/frf/discord-message
+
 
 ## Latest Projects
 
