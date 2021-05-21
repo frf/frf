@@ -20,32 +20,39 @@ I'm working on a personal project to help people easily store and access their d
 Working on a new challenge to build an API with great performance using DDD and a scalable architecture.
 At the last company I worked with, I delivered a large platform together with the development team that today serves and processes 3000 work orders a day.
 
+Local Help People - http://ajudalocal.me/
+This project consists of helping people, knowing where each homeless person is, who needs food, who needs books, who needs help, hygiene products, or psychological help and so on. API: https://github.com/frf/api.ajudalocal.me Frontend: https://github.com/frf/app.ajudalocal
+
+Docfacil - https://docfacil.me 
+Docfacil.me is a platform for sending documents such as ID, CPF, health insurance card, etc. .. This platform works with a simple upload of an image taken from the application, this image is saved encrypted on our server where only the owner himself has access. This idea came from a difficulty I saw that some elderly people need digitally some of their documents and did not find them, so the mobile app will concentrate all your documents. API: https://github.com/frf/api-docfacil FRONT: https://github.com/frf/docfacil.me-front
+
+Bitbucket and Discord messages
+Bitbucket and Discord messages integration via webhook, https://github.com/frf/webhook-bitbucket-to-discord
+
+Discord Notification
+https://github.com/frf/discord-message
+
 <br/>💻 PHP native or (Laravel, Zend, Synfony)
-<br/>✏️ VUEJS, REACT, HTML, JS
-<br/>💙 In love with Javascript.
+<br/>✏️ REACT, HTML, JS
+<br/>💙 In love with PHP / Javascript.
 <br/>📚 Postgraduate in Systems Analysis, Design and Management.
 <br/>🌍 Languages: Portuguese, English.
-<br/>💬 Ask me about: php, linux.
-<br/>🔧 Tools: GraphQL, REST, Docker, Caprover, Kubernate, Heroku
+<br/>💬 Ask me about: PHP, Laravel, Linux, Docker
+<br/>🔧 Tools: Docker, RabbitMQ, PHP Mess Detector, Sonarqube, ECS Aws, RDS Aws
 <br/>
 
 AWS (Nginx, Mysql, Postgres, DynamoDB, Mongodb, AWS RDS)<br/> 
-Mobile: Android, ReactNative, IONIC<br/> 
-Front-end: VUEJS, HTML, JS, React<br/> 
+Mobile: ReactNative<br/> 
+Front-end: React, HTML, JS<br/> 
 Background: API, REST, Shell, Docker <br/> 
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
-
-
-
 
 ## Latest Projects
 
 ### App Mobile: <br/>
 #### list occurrences and show details <br/>
 Mobile: https://github.com/frf/occurrence-react-native<br/>
-
-## Latest Projects
 
 ### Website React TypeScript: <br/>
 #### Platform to find developers around the world <br/>
@@ -55,8 +62,8 @@ GIT 💻: https://github.com/frf/react-dev4u-website<br/>
 
 ### Laravel, Mysql, Aws, S3, EC2<br/>
 #### Property management platform, multi real estate.
-Demo 💻:  https://imovelweb.app2u.co<br/>
-Demo Admin 💻:  https://imovelweb.app2u.co/admin<br/>
+Demo 💻:  https://staging.imovel.app2u.co/<br/>
+Demo Admin 💻:  https://staging.imovel.app2u.co/admin<br/>
 
 ### React, NodeJS, NestJS, Mysql, multi apps examples <br/>
 #### Platform test multi apps<br/>
