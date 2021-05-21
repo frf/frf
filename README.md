@@ -1,5 +1,5 @@
 ### `<?php echo "Wooohooo, I'm Fabio"; ?>`
-#### ` docker exec -it php php /var/www/html/artisan `
+#### ` docker-compose up -d && docker exec -it php php /var/www/html/artisan `
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiorochafarias)](https://www.linkedin.com/in/fabiorochafarias)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio@fabiofarias.com.br)](mailto:fabio@fabiofarias.com.br)
